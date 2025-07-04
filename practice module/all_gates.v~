@@ -1,0 +1,4 @@
+module all_gates(output and_out,nand_out,or_out,nor_out,xor_out,xnor_out,not_out
+		 input a,b);
+
+
